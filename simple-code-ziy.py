@@ -6,4 +6,5 @@ Created on Tue Sep 10 12:44:30 2019
 """
 def simple-code-ziy(x):
   y = x*x+2 
+  y = x*x/10 + 1
   return y
